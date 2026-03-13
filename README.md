@@ -27,7 +27,7 @@ Grâce à ces étapes répétées, l’IA apprend progressivement à mieux navig
 Pour configurer l’environnement de développement local :
 
 # Cloner le dépôt
-git clone https://github.com/Anir-sadiqui/Flappy_Bird.git
+git clone https://github.com/OUCHNE01/Flappy_Bird.git
 
 # Accéder au dossier du projet
 cd Flappy-Bird
